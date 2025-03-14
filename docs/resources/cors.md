@@ -6,7 +6,7 @@ CORS (Cross-Origin Resource Sharing) est un mécanisme de sécurité permettant 
 
 ## Problème que CORS résout
 
-Par défaut, un site web ne peut pas faire de requêtes AJAX\* vers un **domaine différent** à cause de la **Same-Origin Policy** ([SOP]())
+Par défaut, un site web ne peut pas faire de requêtes AJAX\* vers un **domaine différent** à cause de la **Same-Origin Policy** ([SOP](https://github.com/Kenlark/brief-securite/blob/develop/docs/resources/sop.md))
 
 # Exemple
 
