@@ -1,6 +1,6 @@
 # Checklist avancement pdf
 
-- [ ] Sommaire
+- [x] Sommaire
 - [x] Introduction
 - [x] RGPD
 - [x] Attaques les plus courantes / les concepts clés
