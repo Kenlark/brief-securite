@@ -1,8 +1,7 @@
 # Checklist avancement pdf
 
 - [ ] Sommaire
-- [ ] Introduction
-- [ ] Security Strategy Overview
+- [x] Introduction
 - [x] RGPD
 - [x] Attaques les plus courantes / les concepts clés
 - [x] Sécurité de la bdd
