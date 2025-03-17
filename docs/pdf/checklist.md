@@ -7,6 +7,6 @@
 - [x] Attaques les plus courantes / les concepts clés
 - [x] Sécurité de la bdd
 - [x] Sécurité de l'API
-- [ ] Sécurité du DOM
+- [x] Sécurité du DOM
 - [ ] Sécurité du navigateur
 - [ ] Conclusion
