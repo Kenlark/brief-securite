@@ -7,5 +7,5 @@
 - [x] Sécurité de la bdd
 - [x] Sécurité de l'API
 - [x] Sécurité du DOM
-- [ ] Sécurité du navigateur
+- [x] Sécurité du navigateur
 - [ ] Conclusion
