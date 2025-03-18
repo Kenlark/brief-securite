@@ -8,4 +8,4 @@
 - [x] Sécurité de l'API
 - [x] Sécurité du DOM
 - [x] Sécurité du navigateur
-- [ ] Conclusion
+- [x] Conclusion
